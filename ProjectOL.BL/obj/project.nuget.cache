@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lKXwD5OlI1xxSkIFK8gufjpJi0UfzJaSH6ZIeOf07o9GX4Fqq/2kL9CarJSeQ8mrvbRvDyb7A+/TxonghLEVmw==",
+  "dgSpecHash": "JLrtDqrMsTSnGaS2/lhnPqp7oLsO1vKW6KhzRt0qZF7u3wSJLD6KVAFvkgamrKKlKfjYIsEbwKEXCc5ICWqhbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stev2\\source\\repos\\ProjectOL\\ProjectOL.BL\\ProjectOL.BL.csproj",
+  "projectFilePath": "C:\\Users\\stev2\\source\\repos\\projectOl\\ProjectOL.BL\\ProjectOL.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stev2\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\stev2\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

@@ -3,7 +3,6 @@ C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\bin\Debug\netcoreapp3.1\Proje
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\bin\Debug\netcoreapp3.1\ProjectOL.BL.runtimeconfig.dev.json
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\bin\Debug\netcoreapp3.1\ProjectOL.BL.dll
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\bin\Debug\netcoreapp3.1\ProjectOL.BL.pdb
-C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\obj\Debug\netcoreapp3.1\ProjectOL.BL.csproj.AssemblyReference.cache
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\obj\Debug\netcoreapp3.1\ProjectOL.BL.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\obj\Debug\netcoreapp3.1\ProjectOL.BL.AssemblyInfoInputs.cache
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\obj\Debug\netcoreapp3.1\ProjectOL.BL.AssemblyInfo.cs

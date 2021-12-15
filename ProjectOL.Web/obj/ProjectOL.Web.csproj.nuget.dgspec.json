@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stev2\\source\\repos\\ProjectOL\\ProjectOL.Web\\ProjectOL.Web.csproj": {}
+    "C:\\Users\\stev2\\source\\repos\\projectOl\\ProjectOL.Web\\ProjectOL.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stev2\\source\\repos\\ProjectOL\\ProjectOL.BL\\ProjectOL.BL.csproj": {
+    "C:\\Users\\stev2\\source\\repos\\projectOl\\ProjectOL.BL\\ProjectOL.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stev2\\source\\repos\\ProjectOL\\ProjectOL.BL\\ProjectOL.BL.csproj",
+        "projectUniqueName": "C:\\Users\\stev2\\source\\repos\\projectOl\\ProjectOL.BL\\ProjectOL.BL.csproj",
         "projectName": "ProjectOL.BL",
-        "projectPath": "C:\\Users\\stev2\\source\\repos\\ProjectOL\\ProjectOL.BL\\ProjectOL.BL.csproj",
+        "projectPath": "C:\\Users\\stev2\\source\\repos\\projectOl\\ProjectOL.BL\\ProjectOL.BL.csproj",
         "packagesPath": "C:\\Users\\stev2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stev2\\source\\repos\\ProjectOL\\ProjectOL.BL\\obj\\",
+        "outputPath": "C:\\Users\\stev2\\source\\repos\\projectOl\\ProjectOL.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\stev2\\source\\repos\\ProjectOL\\ProjectOL.Web\\ProjectOL.Web.csproj": {
+    "C:\\Users\\stev2\\source\\repos\\projectOl\\ProjectOL.Web\\ProjectOL.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stev2\\source\\repos\\ProjectOL\\ProjectOL.Web\\ProjectOL.Web.csproj",
+        "projectUniqueName": "C:\\Users\\stev2\\source\\repos\\projectOl\\ProjectOL.Web\\ProjectOL.Web.csproj",
         "projectName": "ProjectOL.Web",
-        "projectPath": "C:\\Users\\stev2\\source\\repos\\ProjectOL\\ProjectOL.Web\\ProjectOL.Web.csproj",
+        "projectPath": "C:\\Users\\stev2\\source\\repos\\projectOl\\ProjectOL.Web\\ProjectOL.Web.csproj",
         "packagesPath": "C:\\Users\\stev2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stev2\\source\\repos\\ProjectOL\\ProjectOL.Web\\obj\\",
+        "outputPath": "C:\\Users\\stev2\\source\\repos\\projectOl\\ProjectOL.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -118,8 +118,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\stev2\\source\\repos\\ProjectOL\\ProjectOL.BL\\ProjectOL.BL.csproj": {
-                "projectPath": "C:\\Users\\stev2\\source\\repos\\ProjectOL\\ProjectOL.BL\\ProjectOL.BL.csproj"
+              "C:\\Users\\stev2\\source\\repos\\projectOl\\ProjectOL.BL\\ProjectOL.BL.csproj": {
+                "projectPath": "C:\\Users\\stev2\\source\\repos\\projectOl\\ProjectOL.BL\\ProjectOL.BL.csproj"
               }
             }
           }

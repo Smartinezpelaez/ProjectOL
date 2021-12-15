@@ -49,7 +49,6 @@ C:\Users\stev2\source\repos\ProjectOL\ProjectOL.Web\bin\Debug\netcoreapp3.1\Syst
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\stev2\source\repos\ProjectOL\ProjectOL.Web\obj\Debug\netcoreapp3.1\ProjectOL.Web.csproj.AssemblyReference.cache
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.Web\obj\Debug\netcoreapp3.1\ProjectOL.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.Web\obj\Debug\netcoreapp3.1\ProjectOL.Web.AssemblyInfoInputs.cache
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.Web\obj\Debug\netcoreapp3.1\ProjectOL.Web.AssemblyInfo.cs
@@ -215,3 +214,4 @@ C:\Users\stev2\source\repos\projectOl\ProjectOL.Web\obj\Debug\netcoreapp3.1\Razo
 C:\Users\stev2\source\repos\projectOl\ProjectOL.Web\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Create.cshtml.g.cs
 C:\Users\stev2\source\repos\projectOl\ProjectOL.Web\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Edit.cshtml.g.cs
 C:\Users\stev2\source\repos\projectOl\ProjectOL.Web\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Delete.cshtml.g.cs
+C:\Users\stev2\source\repos\projectOl\ProjectOL.Web\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Language.cshtml.g.cs
