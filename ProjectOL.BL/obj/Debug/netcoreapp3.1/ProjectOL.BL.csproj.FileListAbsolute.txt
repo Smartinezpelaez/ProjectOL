@@ -10,3 +10,4 @@ C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\obj\Debug\netcoreapp3.1\Proje
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\obj\Debug\netcoreapp3.1\ProjectOL.BL.dll
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\obj\Debug\netcoreapp3.1\ProjectOL.BL.pdb
 C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\obj\Debug\netcoreapp3.1\ProjectOL.BL.genruntimeconfig.cache
+C:\Users\stev2\source\repos\ProjectOL\ProjectOL.BL\obj\Debug\netcoreapp3.1\ProjectOL.BL.csproj.AssemblyReference.cache

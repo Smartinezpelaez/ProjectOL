@@ -215,3 +215,4 @@ C:\Users\stev2\source\repos\projectOl\ProjectOL.Web\obj\Debug\netcoreapp3.1\Razo
 C:\Users\stev2\source\repos\projectOl\ProjectOL.Web\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Edit.cshtml.g.cs
 C:\Users\stev2\source\repos\projectOl\ProjectOL.Web\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Delete.cshtml.g.cs
 C:\Users\stev2\source\repos\projectOl\ProjectOL.Web\obj\Debug\netcoreapp3.1\Razor\Views\Projects\Language.cshtml.g.cs
+C:\Users\stev2\source\repos\ProjectOL\ProjectOL.Web\obj\Debug\netcoreapp3.1\ProjectOL.Web.csproj.AssemblyReference.cache

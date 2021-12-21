@@ -120,19 +120,21 @@ namespace ProjectOL.API.Controllers
         /// </summary>
         /// <param name="id">Id del customer</param>
         /// <returns></returns>
-        [HttpDelete("{id}")] //    api/Customers/1
+        /// 
+       
+        [HttpDelete("{id}")]  //api/Customers/1
         public IActionResult Delete(int id)
         {
             try
             {
-                var projects = context.Projects.Find(id);
-                if (projects == null)
+                var project = context.Projects.Find(id);
+                if (project == null)
                     return Ok(new ResponseDTO { Code = (int)HttpStatusCode.NotFound, Message = "NotFound" });
 
-                if (context.ProjectLanguages.Any(x => x.Id == id))
-                    throw new Exception("Dependencies");
+                if (context.ProjectLanguages.Any(x => x.ProjectId == id))
+                    context.ProjectLanguages.RemoveRange(context.ProjectLanguages.Where(x => x.ProjectId == id));
 
-                context.Projects.Remove(projects);
+                context.Projects.Remove(project);
                 context.SaveChanges();
 
                 return Ok(new ResponseDTO { Code = (int)HttpStatusCode.OK, Message = "Se ha realizado el proceso con exito." });
